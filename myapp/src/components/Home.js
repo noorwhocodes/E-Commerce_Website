@@ -13,7 +13,7 @@ function Home (props){
     
         return (
             <>
-                <NavigationBar />
+                
                 <Products />
             </>
         // <div className=''>
