@@ -1,0 +1,33 @@
+.signupmain{
+
+    background-color: #585656;
+    position: fixed;
+    padding: 0px;
+    margin: 0px;
+    width: 100%;
+    height: 100%;
+    align-items: center;
+
+}
+.signupbox{
+    background-color: #839cf4; 
+    width: 40%;
+    height: 60%;
+    padding: 20px;
+    float: left;
+    align-items: center;
+    margin-top: 10%;
+    margin-left: 10%;
+
+}
+.signuplogo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40%;
+    height: 60%;
+    margin-top: 10%;
+    margin-right: 10%; 
+    background-color: rgb(81, 136, 213);
+    float: left;
+}

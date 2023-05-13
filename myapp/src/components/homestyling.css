@@ -1,0 +1,55 @@
+.homemain{
+    width: 100%;
+    height: 100%;
+    background-color: #585656;
+    position: fixed;
+    padding: 0px;
+    margin: 0px;
+}
+
+.header{
+    width: 100%;
+    height: 10%;
+    background-color: #839cf4;
+    position: fixed;
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    align-items: center;
+}
+.homelogo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 40px;
+    background-color: rgb(136, 81, 213);
+    float: left;
+}
+.hometitle{
+    
+    justify-content: center;
+    align-items: center;
+    margin-right: 750px;
+    background-color: rgb(177, 165, 196);
+    float: left;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 70px;
+    font-weight: bold;
+}
+
+.homebody{
+    width: 100%;
+    height: 90%;
+    background-color: #839cf4;
+    position: fixed;
+    padding: 0px;
+    margin: 0px;
+    
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10%;
+}
